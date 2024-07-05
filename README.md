@@ -1,14 +1,13 @@
-# Uber-Data-Analysis
+## Uber-Data-Analysis
 
-# Uber Data Analysis & Data Cleaning
-## Download Dataset Link from Kaggle:
+### Download Dataset Link from Kaggle:
 > https://www.kaggle.com/datasets/zusmani/uberdrives
-## Summary of Problems:
+### Summary of Problems:
 > 1. First Problem: We should correct the date format because it's wrong.
 > 2. Second Problem: There are a lot of null or missing values in the PURPOSE column.
 > 3. Third Problem: There is a duplicate value.
 
-## Summary of Data Analysis:
+### Summary of Data Analysis:
 > 1. Mean of Miles of Commute grater one.
 > 2. Friday is the most day that has passenger requests in Uber.
 > 3. 3pm is the most Hour that has passenger requests in Uber.
@@ -21,10 +20,10 @@
 > 10. Mean of Miles of Latta grater one.
 > 11. Mean of Miles of Mebane grater one.
 
-## Programming Language:
+### Programming Language:
 > Python
 
-## packages:
+### packages:
 > 1. Numpy 
 > 2. Pandas 
 > 3. Seaborn 
